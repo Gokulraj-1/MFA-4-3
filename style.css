@@ -1,4 +1,4 @@
-.body-container{
+.container{
    background-color: #0d1a2d;
    height: 1700px;
    width: 2400px;
@@ -8,11 +8,11 @@
    flex-wrap: wrap;
    justify-content: space-between;
 }
-.body-container2{
+.container2{
    display: flex;
    margin-bottom: 50px;
 }
-.body-container1{
+.container1{
    display: flex;
 }
 .box{
@@ -52,6 +52,27 @@
    width: 300px;
 
 }
+.head1{
+   font-size:30px ;
+   color:#a9b8c1;
+   font-family: 'Outfit';"
+}
+.para1{
+   color: #5b6f8b;
+   font-size:20px;
+   font-family: 'Outfit';"
+}
+.para2{
+   color:#3ccdd2;
+   font-size:20px ;
+   font-family: 'Outfit';
+}
+.para3{
+   color:#7a8fb0;
+   font-size: 20px;
+   font-family: 'Outfit';"
+}
+
 .content{
    margin:20px;
    display: flex;
